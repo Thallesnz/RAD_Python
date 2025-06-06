@@ -7,7 +7,7 @@ Principais funcionalidades do programa.<br/>
 • Adição de agendamentos de trabalhos (com opções para remover, modificar e limpar os dados no banco de dados).<br/>
 • Relatórios para listar todos os grupos e trabalhos cadastrados no banco de dados.<br/>
 
-.<br/>Tela simples de cadastro e de login do sistema.<br/>
+<br/>Tela simples de cadastro e de login do sistema.<br/>
 ![image](https://github.com/user-attachments/assets/ab302f6a-9667-4b26-9993-85e33188a564)
 ![image](https://github.com/user-attachments/assets/5c4d553b-cd74-4012-bb84-bd3dd51413ba)
 
