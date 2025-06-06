@@ -1,0 +1,13 @@
+[2025-06-04 23:22:52] O usuário <class 'tkinter.StringVar'> acabou agendar uma nova apresentação para o grupo asdasdas
+[2025-06-04 23:25:36] O usuário Var acabou de inserir um grupo no banco de dados (nome do grupo asdasda)
+[2025-06-04 23:26:57] O usuário Var acabou agendar uma nova apresentação para o grupo asdasda
+[2025-06-05 22:52:39] O usuário thallescurso acabou de cadastrar o grupo Teste no banco de dados
+[2025-06-05 23:06:08] O usuário thallescurso acabou de entrar no sistema
+[2025-06-05 23:06:17] O usuário thallescurso acabou de remover o agendamento do grupo  do banco de dados
+[2025-06-05 23:06:20] O usuário thallescurso  acabou de remover o agendamento do grupo asdasda do banco de dados
+[2025-06-05 23:06:22] O usuário thallescurso acabou de remover o agendamento do grupo  do banco de dados
+[2025-06-05 23:06:44] O usuário thallescurso  acabou de remover o grupo iot do banco de dados
+[2025-06-05 23:06:48] O usuário thallescurso acabou de remover os dados do grupo Teste no banco de dados
+[2025-06-05 23:13:06] O usuário thalles acabou de ser criado no sistema
+[2025-06-05 23:13:06] Um usario com login  acabou de ser criado no banco de dados
+[2025-06-05 23:13:11] O usuário thalles acabou de entrar no sistema
