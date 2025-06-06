@@ -15,7 +15,7 @@ Principais funcionalidades do programa.<br/>
 ![image](https://github.com/user-attachments/assets/ca90795b-dbdb-4f77-b01b-e041b33c2f65)
 
 <br/>
-FAQ
+FAQ<br/>
 1. Como rodar a aplicação?<br/>
    Basta executar o arquivo main_telalogin.py e o programa iniciará por completo.<br/>
 
